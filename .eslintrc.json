@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": "standard",
+  "rules": {
+    "semi": ["error", "always"],
+    "padded-blocks": 0
+  },
+  "env": {
+       "browser": false,
+       "node": true
+   }
+}
